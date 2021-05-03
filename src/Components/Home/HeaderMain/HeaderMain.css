@@ -1,0 +1,10 @@
+.headerImage{
+    background-color: rgb(218, 82, 82);
+    height: 300px;
+    border-radius: 50%;
+}
+.headerMain{
+    /* height: 100vh; */
+    background-image: url(../../../images/4882066.jpg);
+    /* background-repeat: no-repeat; */
+}
